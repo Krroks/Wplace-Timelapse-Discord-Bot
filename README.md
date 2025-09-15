@@ -24,7 +24,7 @@ It is an ideal tool for monitoring frequently updated images, such as collaborat
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/Krroks/Wplace-Timelapse-Discord-Bot.git
     cd your-repository
     ```
 
